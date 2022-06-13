@@ -401,6 +401,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama.*<br>
  [[PDF](https://arxiv.org/abs/2205.09671)] [[Github]([https://github.com/jacenkow/mmbt](https://github.com/vkola-lab/tmi2022))]
  
+   **Addformer: Alzheimer's Disease Detection from Structural Mri Using Fusion Transformer.** [May, 2022].<br>
+*Rafsanjany Kushol; Abbas Masoumzadeh; Dong Huo; Sanjay Kalra; Yee-Hong Yang.*<br>
+ [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761421&casa_token=qNfryA-1m-MAAAAA:ac2hBwidtYoSaxcnUUqJHIFlzBGA0BJArkOKxhPxeoLxCfTG4P7MNv0IpqbL4ylJ8z8oahG5&tag=1)]
+ 
  
 ## Classification COVID19 (Separate section due to its current significance)
 
